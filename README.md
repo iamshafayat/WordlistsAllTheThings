@@ -1,9 +1,9 @@
 # 📂 WordlistsAllTheThings
 
-![GitHub Stars](https://img.shields.io/github/stars/iamshafayat/WordlistsAllTheThings?style=flat-square&color=yellow)
-![GitHub Forks](https://img.shields.io/github/forks/iamshafayat/WordlistsAllTheThings?style=flat-square&color=orange)
-![Maintained](https://img.shields.io/badge/Maintained-yes-green?style=flat-square&color=00d4aa)
-![For](https://img.shields.io/badge/For-Security%20Research-green?style=flat-square&color=00d4aa)
+[![GitHub Stars](https://img.shields.io/github/stars/iamshafayat/WordlistsAllTheThings?style=for-the-badge&color=yellow&logo=github)](https://github.com/iamshafayat/WordlistsAllTheThings/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/iamshafayat/WordlistsAllTheThings?style=for-the-badge&color=orange&logo=github)](https://github.com/iamshafayat/WordlistsAllTheThings/forks)
+[![Maintained](https://img.shields.io/badge/Maintained-yes-00d4aa?style=for-the-badge&logo=github)](https://github.com/iamshafayat/WordlistsAllTheThings)
+[![For](https://img.shields.io/badge/For-Security%20Research-00d4aa?style=for-the-badge&logo=linux)](https://github.com/iamshafayat/WordlistsAllTheThings)
 
 > A curated, well-organized collection of wordlists and payloads for bug bounty hunting and web application security testing. Gathered from various security researchers and organized for efficient use.
 
